@@ -1,0 +1,14 @@
+work/
+results*/
+.nextflow*
+*.fastq.gz
+__pycache__/
+tests/tmp/
+.entrez_cache/
+
+# Build logs of the reference resolver: they name every taxon it searched for,
+# which includes the garden's own list, so they stay out of the tree.
+assets/reference_resolve.log*
+# the page figure.py renders for reading; the two SVGs it also writes are what ships
+explore/figure.html
+docs/figures/*.tsv

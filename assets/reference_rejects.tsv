@@ -1,0 +1,215 @@
+# target names that produced no entry, with the reason. This file is the
+# denominator of every coverage figure quoted for the library.
+name	source	reason
+Acaena caesiiglauca	plant_atlas	no Viridiplantae taxid
+Alnus x hybrida	plant_atlas	no Viridiplantae taxid
+Amaranthus x ozanonii	plant_atlas	no Viridiplantae taxid
+Anemone x hybrida	plant_atlas	ambiguous: 889469,3132317
+Anisantha madritensis	plant_atlas	no Viridiplantae taxid
+Aristavena	plant_atlas	genus: no Viridiplantae taxid
+Aristavena setacea	plant_atlas	no Viridiplantae taxid
+Atriplex x gustafssoniana	plant_atlas	no Viridiplantae taxid
+Buphthalmum speciosum	plant_atlas	no Viridiplantae taxid
+Callitriche stagnalis	plant_atlas	ambiguous: 119595,2590673
+Calystegia x lucana	plant_atlas	no Viridiplantae taxid
+Cardamine pratensis	plant_atlas	ambiguous: 50465,85107
+Carduus x stangii	plant_atlas	no Viridiplantae taxid
+Ceratochloa marginata	plant_atlas	no Viridiplantae taxid
+Chara muscosa	plant_atlas	no Viridiplantae taxid
+Chara socotrensis	plant_atlas	no Viridiplantae taxid
+Chara subspinosa	plant_atlas	no Viridiplantae taxid
+Chiastophyllum	plant_atlas	genus: no Viridiplantae taxid
+Cirsium x celakovskianum	plant_atlas	no Viridiplantae taxid
+Cirsium x forsteri	plant_atlas	no Viridiplantae taxid
+Corispermum intermedium	plant_atlas	no Viridiplantae taxid
+Cotoneaster amoenus	plant_atlas	no Viridiplantae taxid
+Cotoneaster boisianus	plant_atlas	no Viridiplantae taxid
+Cotoneaster cashmiriensis	plant_atlas	no Viridiplantae taxid
+Cotoneaster ellipticus	plant_atlas	no Viridiplantae taxid
+Cotoneaster hsingshangensis	plant_atlas	no Viridiplantae taxid
+Cotoneaster hylmoei	plant_atlas	no Viridiplantae taxid
+Cotoneaster nanshan	plant_atlas	no Viridiplantae taxid
+Cotoneaster obtusus	plant_atlas	no Viridiplantae taxid
+Cotoneaster prostratus	plant_atlas	no Viridiplantae taxid
+Cotoneaster pseudoambiguus	plant_atlas	no Viridiplantae taxid
+Cotoneaster thymifolius	plant_atlas	no Viridiplantae taxid
+Cotoneaster transens	plant_atlas	no Viridiplantae taxid
+Cotoneaster vilmorinianus	plant_atlas	no Viridiplantae taxid
+Cotoneaster x suecicus	plant_atlas	no Viridiplantae taxid
+Cotula sessilis	plant_atlas	no Viridiplantae taxid
+Crataegus heterophylla	plant_atlas	no Viridiplantae taxid
+Crocus x hybridus	plant_atlas	no Viridiplantae taxid
+Crocus x luteus	plant_atlas	no Viridiplantae taxid
+Cupressus pisifera	plant_atlas	no Viridiplantae taxid
+Dactylis polygama	plant_atlas	no Viridiplantae taxid
+Dactylorhiza x formosa	plant_atlas	no Viridiplantae taxid
+Dactylorhiza x grandis	plant_atlas	no Viridiplantae taxid
+Dactylorhiza x hallii	plant_atlas	no Viridiplantae taxid
+Dactylorhiza x kernerorum	plant_atlas	no Viridiplantae taxid
+Dactylorhiza x transiens	plant_atlas	no Viridiplantae taxid
+Dactylorhiza x venusta	plant_atlas	no Viridiplantae taxid
+Doronicum x willdenowii	plant_atlas	no Viridiplantae taxid
+Drosera x eloisiana	plant_atlas	no Viridiplantae taxid
+Dryopteris x complexa	plant_atlas	no Viridiplantae taxid
+Eichhornia	plant_atlas	genus: no Viridiplantae taxid
+Eichhornia crassipes	plant_atlas	no Viridiplantae taxid
+Eleogiton	plant_atlas	genus: no Viridiplantae taxid
+Elymus x drucei	plant_atlas	no Viridiplantae taxid
+Elymus x laxus	plant_atlas	no Viridiplantae taxid
+Elymus x obtusiusculus	plant_atlas	no Viridiplantae taxid
+Epilobium x aggregatum	plant_atlas	no Viridiplantae taxid
+Epilobium x dacicum	plant_atlas	no Viridiplantae taxid
+Epilobium x floridulum	plant_atlas	no Viridiplantae taxid
+Epilobium x interjectum	plant_atlas	no Viridiplantae taxid
+Epilobium x limosum	plant_atlas	no Viridiplantae taxid
+Epilobium x novae-civitatis	plant_atlas	no Viridiplantae taxid
+Epilobium x vicinum	plant_atlas	no Viridiplantae taxid
+Erica x darleyensis	plant_atlas	no Viridiplantae taxid
+Erodium manescavii	plant_atlas	no Viridiplantae taxid
+Ervilia	plant_atlas	genus: no Viridiplantae taxid
+Ervilia hirsuta	plant_atlas	no Viridiplantae taxid
+Ervilia sylvatica	plant_atlas	no Viridiplantae taxid
+Ervum	plant_atlas	genus: no Viridiplantae taxid
+Ervum tetraspermum	plant_atlas	no Viridiplantae taxid
+Erythranthe	plant_atlas	not a binomial
+Erythranthe peregrina	plant_atlas	no Viridiplantae taxid
+Erythranthe x burnetii	plant_atlas	no Viridiplantae taxid
+Erythranthe x maculosa	plant_atlas	no Viridiplantae taxid
+Erythranthe x robertsii	plant_atlas	no Viridiplantae taxid
+Euphorbia waldsteinii	plant_atlas	no Viridiplantae taxid
+Euphorbia x gayeri	plant_atlas	no Viridiplantae taxid
+Euphrasia	plant_atlas	not a binomial
+Euphrasia campbelliae	plant_atlas	no Viridiplantae taxid
+Euphrasia stricta	plant_atlas	ambiguous: 374709,691775
+Euphrasia x areschougii	plant_atlas	no Viridiplantae taxid
+Euphrasia x difformis	plant_atlas	no Viridiplantae taxid
+Freesia x hybrida	plant_atlas	no Viridiplantae taxid
+Fuchsia 'Corallina'	plant_atlas	not a binomial
+Galeopsis x ludwigii	plant_atlas	no Viridiplantae taxid
+Geranium herrerae	plant_atlas	no Viridiplantae taxid
+Geranium x magnificum	plant_atlas	no Viridiplantae taxid
+Geranium x monacense	plant_atlas	no Viridiplantae taxid
+Geranium x oxonianum	plant_atlas	no Viridiplantae taxid
+Helenium x clementii	plant_atlas	no Viridiplantae taxid
+Hieracium	plant_atlas	not a binomial
+Hyacinthoides x massartiana	plant_atlas	no Viridiplantae taxid
+Iris x robusta	plant_atlas	no Viridiplantae taxid
+Ixia campanulata	plant_atlas	no Viridiplantae taxid
+Jacobaea x albescens	plant_atlas	no Viridiplantae taxid
+Jacobaea x ostenfeldii	plant_atlas	no Viridiplantae taxid
+Juncus pallidus	plant_atlas	no Viridiplantae taxid
+Juncus x diffusus	plant_atlas	no Viridiplantae taxid
+Juncus x kern-reichgeltii	plant_atlas	no Viridiplantae taxid
+Juncus x surrejanus	plant_atlas	no Viridiplantae taxid
+Laphangium	plant_atlas	genus: no Viridiplantae taxid
+Libertia elegans	plant_atlas	no Viridiplantae taxid
+Limonium transwallianum	plant_atlas	no Viridiplantae taxid
+Linaria x dominii	plant_atlas	no Viridiplantae taxid
+Linaria x sepium	plant_atlas	no Viridiplantae taxid
+Lolium x boucheanum	plant_atlas	no Viridiplantae taxid
+Lonicera x italica	plant_atlas	no Viridiplantae taxid
+Lupinus x regalis	plant_atlas	no Viridiplantae taxid
+Luzula x borreri	plant_atlas	no Viridiplantae taxid
+Lycium	plant_atlas	not a binomial
+Macleaya x kewensis	plant_atlas	no Viridiplantae taxid
+Mahonia x decumbens	plant_atlas	no Viridiplantae taxid
+Maianthemum kamtschaticum	plant_atlas	no Viridiplantae taxid
+Malva x clementii	plant_atlas	no Viridiplantae taxid
+Mentha x rotundifolia	plant_atlas	ambiguous: 38860,54461
+Mentha x villosa	plant_atlas	ambiguous: 292239,424577
+Mentha x villosonervata	plant_atlas	no Viridiplantae taxid
+Narcissus	plant_atlas	not a binomial
+Narcissus x incomparabilis	plant_atlas	no Viridiplantae taxid
+Narcissus x medioluteus	plant_atlas	no Viridiplantae taxid
+Narcissus x monochromus	plant_atlas	no Viridiplantae taxid
+Nasturtium x sterile	plant_atlas	no Viridiplantae taxid
+Nitella spanioclema	plant_atlas	no Viridiplantae taxid
+Nothofagus x dodecaphleps	plant_atlas	no Viridiplantae taxid
+Oenothera	plant_atlas	not a binomial
+Oenothera cambrica	plant_atlas	no Viridiplantae taxid
+Olearia macrodonta	plant_atlas	no Viridiplantae taxid
+Olearia x haastii	plant_atlas	no Viridiplantae taxid
+Phedimus stoloniferus	plant_atlas	no Viridiplantae taxid
+Philadelphus group 'Lemoinei Group'	plant_atlas	not a binomial
+Philadelphus group 'Virginalis Group'	plant_atlas	not a binomial
+Phymatosorus diversifolius	plant_atlas	no Viridiplantae taxid
+Pilosella praealta	plant_atlas	no Viridiplantae taxid
+Pilosella praealta subsp. praealta	plant_atlas	no Viridiplantae taxid
+Pilosella praealta subsp. thaumasia	plant_atlas	no Viridiplantae taxid
+Pinguicula vulgaris	plant_atlas	ambiguous: 204362,3391384
+Polygonatum x hybridum	plant_atlas	no Viridiplantae taxid
+Polypodium x font-queri	plant_atlas	no Viridiplantae taxid
+Polypodium x mantoniae	plant_atlas	no Viridiplantae taxid
+Polypodium x shivasiae	plant_atlas	no Viridiplantae taxid
+Polystichum x bicknellii	plant_atlas	no Viridiplantae taxid
+Populus x hastata	plant_atlas	no Viridiplantae taxid
+Potentilla cryeri	plant_atlas	no Viridiplantae taxid
+Potentilla x mixta	plant_atlas	no Viridiplantae taxid
+Pseudofumaria alba	plant_atlas	no Viridiplantae taxid
+Pseudofumaria lutea	plant_atlas	no Viridiplantae taxid
+Pulmonaria 'Mawson's Blue'	plant_atlas	not a binomial
+Rosa 'Hollandica'	plant_atlas	not a binomial
+Rosa luciae	plant_atlas	no Viridiplantae taxid
+Rosa x andegavensis	plant_atlas	ambiguous: 396728,3092073
+Rosa x involuta	plant_atlas	no Viridiplantae taxid
+Rosa x irregularis	plant_atlas	no Viridiplantae taxid
+Rosa x molletorum	plant_atlas	no Viridiplantae taxid
+Rosa x perthensis	plant_atlas	no Viridiplantae taxid
+Rosa x pseudorusticana	plant_atlas	no Viridiplantae taxid
+Rosa x rothschildii	plant_atlas	no Viridiplantae taxid
+Rosa x sabinii	plant_atlas	no Viridiplantae taxid
+Rosa x scabriuscula	plant_atlas	no Viridiplantae taxid
+Rosa x toddiae	plant_atlas	no Viridiplantae taxid
+Rosmarinus	plant_atlas	genus: no Viridiplantae taxid
+Rubus x fraseri	plant_atlas	no Viridiplantae taxid
+Rumex x abortivus	plant_atlas	no Viridiplantae taxid
+Rumex x dufftii	plant_atlas	no Viridiplantae taxid
+Rumex x hybridus	plant_atlas	no Viridiplantae taxid
+Rumex x propinquus	plant_atlas	no Viridiplantae taxid
+Rumex x sagorskii	plant_atlas	no Viridiplantae taxid
+Rumex x schulzei	plant_atlas	no Viridiplantae taxid
+Sabulina stricta	plant_atlas	no Viridiplantae taxid
+Sagina subulata	plant_atlas	no Viridiplantae taxid
+Salicornia	plant_atlas	not a binomial
+Salix fragilis	plant_atlas	ambiguous: 77063,1370111
+Salix x ambigua	plant_atlas	no Viridiplantae taxid
+Salix x calodendron	plant_atlas	no Viridiplantae taxid
+Salix x capreola	plant_atlas	no Viridiplantae taxid
+Salix x ehrhartiana	plant_atlas	no Viridiplantae taxid
+Salix x forbyana	plant_atlas	no Viridiplantae taxid
+Salix x fruticosa	plant_atlas	no Viridiplantae taxid
+Salix x holosericea	plant_atlas	no Viridiplantae taxid
+Salix x meyeriana	plant_atlas	no Viridiplantae taxid
+Salix x mollissima	plant_atlas	no Viridiplantae taxid
+Salix x multinervis	plant_atlas	no Viridiplantae taxid
+Salix x puberula	plant_atlas	no Viridiplantae taxid
+Salix x tetrapla	plant_atlas	no Viridiplantae taxid
+Saxifraga x polita	plant_atlas	no Viridiplantae taxid
+Saxifraga x urbium	plant_atlas	no Viridiplantae taxid
+Schedolium	plant_atlas	genus: no Viridiplantae taxid
+Schedonorus giganteus	plant_atlas	no Viridiplantae taxid
+Sedum praealtum	plant_atlas	no Viridiplantae taxid
+Senecio x baxteri	plant_atlas	no Viridiplantae taxid
+Senecio x londinensis	plant_atlas	no Viridiplantae taxid
+Silene x hampeana	plant_atlas	no Viridiplantae taxid
+Sorbus sellii	plant_atlas	no Viridiplantae taxid
+Spartina x townsendii	plant_atlas	no Viridiplantae taxid
+Spiraea	plant_atlas	not a binomial
+Spiraea x pseudosalicifolia	plant_atlas	no Viridiplantae taxid
+Symphyotrichum	plant_atlas	not a binomial
+Taraxacum	plant_atlas	not a binomial
+Tetragonia tetragonioides	plant_atlas	no Viridiplantae taxid
+Trichophorum germanicum	plant_atlas	no Viridiplantae taxid
+Trichophorum x foersteri	plant_atlas	no Viridiplantae taxid
+Ulex x breoganii	plant_atlas	no Viridiplantae taxid
+Verbascum bombyciferum	plant_atlas	no Viridiplantae taxid
+Verbascum x semialbum	plant_atlas	no Viridiplantae taxid
+Veronica x franciscana	plant_atlas	no Viridiplantae taxid
+Veronica x lewisii	plant_atlas	no Viridiplantae taxid
+Viburnum x rhytidophylloides	plant_atlas	no Viridiplantae taxid
+Viola canina	plant_atlas	ambiguous: 502511,1895567
+Viola canina subsp. ruppii	plant_atlas	ambiguous: 502511,1895567
+Viola x intersita	plant_atlas	no Viridiplantae taxid
+Vulpia	plant_atlas	genus: no Viridiplantae taxid
+X Schedolium braunii	plant_atlas	no Viridiplantae taxid
+X Triticosecale rimpaui	plant_atlas	no Viridiplantae taxid

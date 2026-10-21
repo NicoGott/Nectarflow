@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1620 872" width="1620" height="872"><style>
+  text { font-family: ui-sans-serif, -apple-system, "Segoe UI", Inter, system-ui, sans-serif; }
+  .arm { font-size:13px; font-weight:600; } .armn { font-size:12.5px; fill:#9c958e; }
+  .fate-t { font-size:13.5px; font-weight:600; fill:#2a2724; }
+  .fate-v { font-size:13px; font-weight:600; } .fate-v.dim { fill:#9c958e; font-weight:400; }
+  .fate-d { font-size:11.5px; fill:#9c958e; }
+  .band { font-size:13px; font-weight:600; fill:#2a2724; } .band-sub { font-size:11.5px; fill:#6d6761; }
+  .leader { fill:none; stroke:#9c958e; stroke-width:1; opacity:.5; }
+  .node { stroke:#ffffff; stroke-width:1.2; }
+  .fate-t, .fate-v, .fate-d { paint-order:stroke; stroke:#ffffff;
+    stroke-width:3.4px; stroke-linejoin:round; }
+</style><rect width="100%" height="100%" fill="#ffffff"/><rect class="node" x="74" y="233.0" width="13" height="460.0" fill="#2176C7"/>
+<rect class="node" x="1533" y="233.0" width="13" height="460.0" fill="#D96A12"/>
+<text class="arm" x="74" y="24" text-anchor="start" fill="#2176C7">replica &#183; their pipeline rebuilt</text>
+<text class="armn" x="74" y="43" text-anchor="start">40,800,561 raw read pairs</text>
+<text class="arm" x="1546" y="24" text-anchor="end" fill="#D96A12">reanalysis &#183; current methods</text>
+<text class="armn" x="1546" y="43" text-anchor="end">40,800,561 raw read pairs</text>
+<text class="armn" x="810.0" y="43" text-anchor="middle">the same reads, as each pipeline classified them</text>
+<path class="link" d="M561.0,78.0 C810.0,78.0 810.0,78.0 1059.0,78.0 L1059.0,300.7 C810.0,300.7 810.0,300.7 561.0,300.7 Z" fill="#DEDAD4" opacity=".72"><title>replica: used to name a plant &#183; reanalysis: used to name a plant &#183; 19,755,579 reads</title></path>
+<path class="link" d="M561.0,300.7 C810.0,300.7 810.0,429.6 1059.0,429.6 L1059.0,439.3 C810.0,439.3 810.0,310.4 561.0,310.4 Z" fill="#8A837B" opacity=".72"><title>replica: used to name a plant &#183; reanalysis: read quality &#183; 860,353 reads</title></path>
+<path class="link" d="M561.0,310.4 C810.0,310.4 810.0,564.1 1059.0,564.1 L1059.0,566.2 C810.0,566.2 810.0,312.5 561.0,312.5 Z" fill="#8A837B" opacity=".72"><title>replica: used to name a plant &#183; reanalysis: no marker, or too short for one &#183; 186,463 reads</title></path>
+<path class="link" d="M561.0,312.5 C810.0,312.5 810.0,656.1 1059.0,656.1 L1059.0,673.2 C810.0,673.2 810.0,329.6 561.0,329.6 Z" fill="#8A837B" opacity=".72"><title>replica: used to name a plant &#183; reanalysis: merging and real sequences &#183; 1,517,220 reads</title></path>
+<path class="link" d="M561.0,329.6 C810.0,329.6 810.0,789.9 1059.0,789.9 L1059.0,795.3 C810.0,795.3 810.0,335.1 561.0,335.1 Z" fill="#8A837B" opacity=".72"><title>replica: used to name a plant &#183; reanalysis: the naming rules declined &#183; 480,441 reads</title></path>
+<path class="link" d="M561.0,429.6 C810.0,429.6 810.0,300.7 1059.0,300.7 L1059.0,340.5 C810.0,340.5 810.0,469.3 561.0,469.3 Z" fill="#8A837B" opacity=".72"><title>replica: read quality &#183; reanalysis: used to name a plant &#183; 3,528,608 reads</title></path>
+<path class="link" d="M561.0,469.3 C810.0,469.3 810.0,439.3 1059.0,439.3 L1059.0,480.0 C810.0,480.0 810.0,510.1 561.0,510.1 Z" fill="#DEDAD4" opacity=".72"><title>replica: read quality &#183; reanalysis: read quality &#183; 3,612,421 reads</title></path>
+<path class="link" d="M561.0,510.1 C810.0,510.1 810.0,566.2 1059.0,566.2 L1059.0,576.2 C810.0,576.2 810.0,520.0 561.0,520.0 Z" fill="#8A837B" opacity=".72"><title>replica: read quality &#183; reanalysis: no marker, or too short for one &#183; 880,743 reads</title></path>
+<path class="link" d="M561.0,520.0 C810.0,520.0 810.0,673.2 1059.0,673.2 L1059.0,681.6 C810.0,681.6 810.0,528.3 561.0,528.3 Z" fill="#8A837B" opacity=".72"><title>replica: read quality &#183; reanalysis: merging and real sequences &#183; 740,752 reads</title></path>
+<path class="link" d="M561.0,528.3 C810.0,528.3 810.0,795.3 1059.0,795.3 L1059.0,797.1 C810.0,797.1 810.0,530.1 561.0,530.1 Z" fill="#8A837B" opacity=".72"><title>replica: read quality &#183; reanalysis: the naming rules declined &#183; 158,943 reads</title></path>
+<path class="link" d="M561.0,564.1 C810.0,564.1 810.0,340.5 1059.0,340.5 L1059.0,340.5 C810.0,340.5 810.0,564.2 561.0,564.2 Z" fill="#8A837B" opacity=".72"><title>replica: no marker, or too short for one &#183; reanalysis: used to name a plant &#183; 1,053 reads</title></path>
+<path class="link" d="M561.0,564.2 C810.0,564.2 810.0,480.0 1059.0,480.0 L1059.0,480.0 C810.0,480.0 810.0,564.2 561.0,564.2 Z" fill="#8A837B" opacity=".72"><title>replica: no marker, or too short for one &#183; reanalysis: read quality &#183; 2,541 reads</title></path>
+<path class="link" d="M561.0,564.2 C810.0,564.2 810.0,576.2 1059.0,576.2 L1059.0,576.2 C810.0,576.2 810.0,564.2 561.0,564.2 Z" fill="#DEDAD4" opacity=".72"><title>replica: no marker, or too short for one &#183; reanalysis: no marker, or too short for one &#183; 833 reads</title></path>
+<path class="link" d="M561.0,564.2 C810.0,564.2 810.0,681.6 1059.0,681.6 L1059.0,681.6 C810.0,681.6 810.0,564.2 561.0,564.2 Z" fill="#8A837B" opacity=".72"><title>replica: no marker, or too short for one &#183; reanalysis: merging and real sequences &#183; 4,637 reads</title></path>
+<path class="link" d="M561.0,564.2 C810.0,564.2 810.0,797.1 1059.0,797.1 L1059.0,797.4 C810.0,797.4 810.0,564.5 561.0,564.5 Z" fill="#8A837B" opacity=".72"><title>replica: no marker, or too short for one &#183; reanalysis: the naming rules declined &#183; 25,299 reads</title></path>
+<path class="link" d="M561.0,656.1 C810.0,656.1 810.0,340.5 1059.0,340.5 L1059.0,395.2 C810.0,395.2 810.0,710.8 561.0,710.8 Z" fill="#8A837B" opacity=".72"><title>replica: merging and real sequences &#183; reanalysis: used to name a plant &#183; 4,849,138 reads</title></path>
+<path class="link" d="M561.0,710.8 C810.0,710.8 810.0,480.0 1059.0,480.0 L1059.0,490.7 C810.0,490.7 810.0,721.5 561.0,721.5 Z" fill="#8A837B" opacity=".72"><title>replica: merging and real sequences &#183; reanalysis: read quality &#183; 945,274 reads</title></path>
+<path class="link" d="M561.0,721.5 C810.0,721.5 810.0,576.2 1059.0,576.2 L1059.0,581.8 C810.0,581.8 810.0,727.0 561.0,727.0 Z" fill="#8A837B" opacity=".72"><title>replica: merging and real sequences &#183; reanalysis: no marker, or too short for one &#183; 494,501 reads</title></path>
+<path class="link" d="M561.0,727.0 C810.0,727.0 810.0,681.6 1059.0,681.6 L1059.0,707.4 C810.0,707.4 810.0,752.8 561.0,752.8 Z" fill="#DEDAD4" opacity=".72"><title>replica: merging and real sequences &#183; reanalysis: merging and real sequences &#183; 2,280,232 reads</title></path>
+<path class="link" d="M561.0,752.8 C810.0,752.8 810.0,797.4 1059.0,797.4 L1059.0,800.6 C810.0,800.6 810.0,755.9 561.0,755.9 Z" fill="#8A837B" opacity=".72"><title>replica: merging and real sequences &#183; reanalysis: the naming rules declined &#183; 281,042 reads</title></path>
+<path class="link" d="M561.0,789.9 C810.0,789.9 810.0,395.2 1059.0,395.2 L1059.0,395.6 C810.0,395.6 810.0,790.3 561.0,790.3 Z" fill="#8A837B" opacity=".72"><title>replica: the naming rules declined &#183; reanalysis: used to name a plant &#183; 31,750 reads</title></path>
+<path class="link" d="M561.0,790.3 C810.0,790.3 810.0,490.7 1059.0,490.7 L1059.0,490.8 C810.0,490.8 810.0,790.4 561.0,790.4 Z" fill="#8A837B" opacity=".72"><title>replica: the naming rules declined &#183; reanalysis: read quality &#183; 7,577 reads</title></path>
+<path class="link" d="M561.0,790.4 C810.0,790.4 810.0,581.8 1059.0,581.8 L1059.0,581.8 C810.0,581.8 810.0,790.4 561.0,790.4 Z" fill="#8A837B" opacity=".72"><title>replica: the naming rules declined &#183; reanalysis: no marker, or too short for one &#183; 220 reads</title></path>
+<path class="link" d="M561.0,790.4 C810.0,790.4 810.0,707.4 1059.0,707.4 L1059.0,707.6 C810.0,707.6 810.0,790.6 561.0,790.6 Z" fill="#8A837B" opacity=".72"><title>replica: the naming rules declined &#183; reanalysis: merging and real sequences &#183; 18,516 reads</title></path>
+<path class="link" d="M561.0,790.6 C810.0,790.6 810.0,800.6 1059.0,800.6 L1059.0,802.1 C810.0,802.1 810.0,792.1 561.0,792.1 Z" fill="#DEDAD4" opacity=".72"><title>replica: the naming rules declined &#183; reanalysis: the naming rules declined &#183; 136,425 reads</title></path>
+<path class="flow" d="M87.0,233.0 C317.5,233.0 317.5,78.0 548.0,78.0 L548.0,335.1 C317.5,335.1 317.5,490.0 87.0,490.0 Z" fill="#2176c7" opacity=".78"><title>replica &#183; BLAST, then the published rules: among the hits sharing the top bit score, one species gives a species, one genus a genus, up to three genera an “A/B/C spp.” group.</title></path>
+<path class="flow" d="M1533.0,233.0 C1302.5,233.0 1302.5,78.0 1072.0,78.0 L1072.0,395.6 C1302.5,395.6 1302.5,550.5 1533.0,550.5 Z" fill="#d96a12" opacity=".78"><title>reanalysis &#183; BLAST, then the same shape of rule over a tie band one substitution wide, with an identity floor per marker and rank that can only ever make a name coarser.</title></path>
+<rect class="node" x="548" y="78.0" width="13" height="257.1" fill="#2176c7"/>
+<rect class="node" x="1059" y="78.0" width="13" height="317.6" fill="#d96a12"/>
+<text class="fate-t" x="810.0" y="58.0" text-anchor="middle">used to name a plant</text>
+<text class="fate-v" x="571" y="210.5" fill="#2176C7">22,800,056</text>
+<text class="fate-v" x="1049" y="240.8" text-anchor="end" fill="#D96A12">28,166,128</text>
+<text class="fate-d" x="810.0" y="73.0" text-anchor="middle">the reanalysis names 5,366,072 more</text>
+<path class="flow" d="M87.0,490.0 C317.5,490.0 317.5,429.6 548.0,429.6 L548.0,530.1 C317.5,530.1 317.5,590.6 87.0,590.6 Z" fill="#94bde4" opacity=".78"><title>replica &#183; Trimmomatic: adapter clipping, a sliding quality window, and a 200 bp minimum.</title></path>
+<path class="flow" d="M1533.0,550.5 C1302.5,550.5 1302.5,429.6 1072.0,429.6 L1072.0,490.8 C1302.5,490.8 1302.5,611.7 1533.0,611.7 Z" fill="#edb78c" opacity=".78"><title>reanalysis &#183; DADA2 filterAndTrim: expected errors over maxEE 2, any ambiguous base, truncation at the first Q2 base, a read under the truncation length, or a PhiX match.</title></path>
+<rect class="node" x="548" y="429.6" width="13" height="100.6" fill="#94bde4"/>
+<rect class="node" x="1059" y="429.6" width="13" height="61.2" fill="#edb78c"/>
+<text class="fate-t" x="810.0" y="409.6" text-anchor="middle">read quality</text>
+<text class="fate-v" x="571" y="483.8" fill="#2176C7">8,921,467</text>
+<text class="fate-v" x="1049" y="464.2" text-anchor="end" fill="#D96A12">5,428,166</text>
+<text class="fate-d" x="810.0" y="424.6" text-anchor="middle">the reanalysis discards 3,493,301 fewer</text>
+<path class="flow" d="M87.0,590.6 C317.5,590.6 317.5,564.1 548.0,564.1 L548.0,564.5 C317.5,564.5 317.5,591.0 87.0,591.0 Z" fill="#94bde4" opacity=".78"><title>replica &#183; After merging, the read matched neither marker&#x27;s primer regex, or fell under that marker&#x27;s minimum length. The filter is a floor only.</title></path>
+<path class="flow" d="M1533.0,611.7 C1302.5,611.7 1302.5,564.1 1072.0,564.1 L1072.0,581.8 C1302.5,581.8 1302.5,629.3 1533.0,629.3 Z" fill="#edb78c" opacity=".78"><title>reanalysis &#183; cutadapt anchored neither primer, or it anchored one and the trimmed pair fell under --minimum-length 50.</title></path>
+<rect class="node" x="548" y="564.1" width="13" height="2.0" fill="#94bde4"/>
+<rect class="node" x="1059" y="564.1" width="13" height="17.6" fill="#edb78c"/>
+<text class="fate-t" x="810.0" y="544.1" text-anchor="middle">no marker, or too short for one</text>
+<text class="fate-v" x="571" y="574.1" fill="#2176C7">34,363</text>
+<text class="fate-v" x="1049" y="576.9" text-anchor="end" fill="#D96A12">1,562,760</text>
+<text class="fate-d" x="810.0" y="559.1" text-anchor="middle">the reanalysis discards 1,528,397 more</text>
+<path class="flow" d="M87.0,591.0 C317.5,591.0 317.5,656.1 548.0,656.1 L548.0,755.9 C317.5,755.9 317.5,690.8 87.0,690.8 Z" fill="#94bde4" opacity=".78"><title>replica &#183; FLASH found no acceptable overlap for 1,700,645 pairs; vsearch --minsize 2 then dropped 7,149,542 reads sitting in clusters of one, which without an error model cannot be told from sequencing error.</title></path>
+<path class="flow" d="M1533.0,629.3 C1302.5,629.3 1302.5,656.1 1072.0,656.1 L1072.0,707.6 C1302.5,707.6 1302.5,680.8 1533.0,680.8 Z" fill="#edb78c" opacity=".78"><title>reanalysis &#183; DADA2 denoising and pair merging lost 2,296,356 together (the track table does not separate them), and the bimera model removed 2,265,001 chimeras.</title></path>
+<rect class="node" x="548" y="656.1" width="13" height="99.8" fill="#94bde4"/>
+<rect class="node" x="1059" y="656.1" width="13" height="51.4" fill="#edb78c"/>
+<text class="fate-t" x="810.0" y="636.1" text-anchor="middle">merging, and what counts as a real sequence</text>
+<text class="fate-v" x="571" y="710.0" fill="#2176C7">8,850,187</text>
+<text class="fate-v" x="1049" y="685.9" text-anchor="end" fill="#D96A12">4,561,357</text>
+<text class="fate-d" x="810.0" y="651.1" text-anchor="middle">the reanalysis discards 4,288,830 fewer</text>
+<path class="flow" d="M87.0,690.8 C317.5,690.8 317.5,789.9 548.0,789.9 L548.0,792.1 C317.5,792.1 317.5,693.0 87.0,693.0 Z" fill="#94bde4" opacity=".78"><title>replica &#183; Reads whose top hits spanned several families, so the rule gives no name, and reads below the 1st-percentile bit-score cut-off.</title></path>
+<path class="flow" d="M1533.0,680.8 C1302.5,680.8 1302.5,789.9 1072.0,789.9 L1072.0,802.1 C1302.5,802.1 1302.5,693.0 1533.0,693.0 Z" fill="#edb78c" opacity=".78"><title>reanalysis &#183; The result spanned more than one order, matched nothing, or the variant was too short to search.</title></path>
+<rect class="node" x="548" y="789.9" width="13" height="2.2" fill="#94bde4"/>
+<rect class="node" x="1059" y="789.9" width="13" height="12.2" fill="#edb78c"/>
+<text class="fate-t" x="810.0" y="769.9" text-anchor="middle">the naming rules declined</text>
+<text class="fate-v" x="571" y="799.9" fill="#2176C7">194,488</text>
+<text class="fate-v" x="1049" y="800.0" text-anchor="end" fill="#D96A12">1,082,150</text>
+<text class="fate-d" x="810.0" y="784.9" text-anchor="middle">the reanalysis discards 887,662 more</text></svg>

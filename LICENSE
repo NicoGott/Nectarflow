@@ -1,0 +1,57 @@
+MIT License
+
+Copyright (c) 2026 Nicola Gottardini
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+Third-party material
+
+The licence above covers this repository's own code and documentation only.
+
+assets/published/ is not mine. Supporting_Data.xlsx and its README are the
+published data of Lowe, A., Jones, L., Brennan, G., Creer, S., & de Vere, N.
+(2022), Journal of Applied Ecology 59: 1484-1495, redistributed here under the
+terms of their Dryad deposit, https://doi.org/10.5061/dryad.rjdfn2z9s, which
+places no restrictions on reuse (Dryad releases data under CC0 1.0). Cite the
+paper and the dataset, not this repository, if you use them. The pipeline that
+replica.nf reimplements is the authors',
+https://github.com/colford/nbgw-plant-illumina-pipeline; no code of theirs is
+copied here.
+
+assets/plant_atlas_2020_gb.tsv is derived from Stroh, P.A., Walker, K.J.,
+Humphrey, T.A., Pescott, O.L. & Burkmar, R.J. (2024), Plant Atlas 2020: native
+status data, Zenodo, https://doi.org/10.5281/zenodo.11097371, under CC BY 4.0.
+The attribution and the licence are repeated in the file's own header.
+
+assets/reference/ holds GenBank records, pinned by accession and version in
+assets/reference_manifest.tsv. NCBI places no restriction on the use or
+redistribution of GenBank data; individual submitters may.
+
+The taxon list of the National Botanic Garden of Wales Garden Explorer is NOT
+in this repository. It carries no licence statement and, in the United Kingdom,
+a sui generis database right, so it is not mine to sublicense. It was used to
+build the reference library at one point. It no longer is: the library here is
+built from Barcode UK and the Plant Atlas 2020 alone, so neither the list nor
+anything derived from it is in this repository. docs/replica.md measures what
+that costs.
+
+Trimmomatic's stock adapter lists are not copied here either; the TRIM process
+takes them by name from the installed package, which carries Trimmomatic's own
+GPL-3.

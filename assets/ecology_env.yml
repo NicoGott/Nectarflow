@@ -1,0 +1,20 @@
+# The environment phase 6 ran in. mvabund is not packaged for conda (checked 23 September 2026),
+# so it is installed from CRAN after the environment is created; everything the statistics depend
+# on is pinned to the version that produced the numbers in docs/results.md.
+#
+#   micromamba create -y -p ./ecology_env -f assets/ecology_env.yml
+#   ./ecology_env/bin/Rscript -e 'install.packages("mvabund", repos="https://cloud.r-project.org")'
+#   ./ecology_env/bin/Rscript -e 'packageVersion("mvabund")'     # must print 4.2.8
+#
+# then pass --conda_ecology /abs/path/to/ecology_env
+name: nectarflow-ecology
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - r-base=4.3.3
+  - r-vegan=2.7.1
+  - r-permute=0.9.8
+  - r-mass=7.3_60.0.1
+  - r-lattice=0.22_7
+  # mvabund 4.2.8 is installed from CRAN by the second command above, not from conda

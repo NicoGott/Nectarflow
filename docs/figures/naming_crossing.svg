@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 644" width="1500" height="644"><style>
+  text { font-family: ui-sans-serif, -apple-system, "Segoe UI", Inter, system-ui, sans-serif; }
+  .arm { font-size:13px; font-weight:600; } .armn { font-size:12.5px; fill:#9c958e; }
+  .fate-t { font-size:13.5px; font-weight:600; fill:#2a2724; }
+  .fate-v { font-size:13px; font-weight:600; } .fate-v.dim { fill:#9c958e; font-weight:400; }
+  .fate-d { font-size:11.5px; fill:#9c958e; }
+  .band { font-size:13px; font-weight:600; fill:#2a2724; } .band-sub { font-size:11.5px; fill:#6d6761; }
+  .leader { fill:none; stroke:#9c958e; stroke-width:1; opacity:.5; }
+  .node { stroke:#ffffff; stroke-width:1.2; }
+  .fate-t, .fate-v, .fate-d { paint-order:stroke; stroke:#ffffff;
+    stroke-width:3.4px; stroke-linejoin:round; }
+</style><rect width="100%" height="100%" fill="#ffffff"/><rect class="node" x="470" y="56.0" width="14" height="158.3" fill="#7a3e9d"/>
+<rect class="node" x="470" y="218.3" width="14" height="140.0" fill="#9566b1"/>
+<rect class="node" x="470" y="362.4" width="14" height="78.3" fill="#af8ac4"/>
+<rect class="node" x="470" y="444.6" width="14" height="53.4" fill="#c3a8d3"/>
+<rect class="node" x="1016" y="56.0" width="14" height="205.4" fill="#d96a12"/>
+<rect class="node" x="1016" y="265.4" width="14" height="157.7" fill="#e18943"/>
+<rect class="node" x="1016" y="427.0" width="14" height="41.7" fill="#e8a570"/>
+<rect class="node" x="1016" y="472.8" width="14" height="11.8" fill="#eebc94"/>
+<path class="flow" d="M484.0,56.0 C750.0,56.0 750.0,56.0 1016.0,56.0 L1016.0,167.3 C750.0,167.3 750.0,167.3 484.0,167.3 Z" fill="#C4C0BB" opacity=".66"><title>species &#8594; species &#183; 984 detections</title></path>
+<path class="flow" d="M484.0,167.3 C750.0,167.3 750.0,265.4 1016.0,265.4 L1016.0,291.9 C750.0,291.9 750.0,193.8 484.0,193.8 Z" fill="#B07CC6" opacity=".66"><title>species &#8594; genus &#183; 234 detections</title></path>
+<path class="flow" d="M484.0,193.8 C750.0,193.8 750.0,427.0 1016.0,427.0 L1016.0,435.5 C750.0,435.5 750.0,202.2 484.0,202.2 Z" fill="#B07CC6" opacity=".66"><title>species &#8594; genus group &#183; 75 detections</title></path>
+<path class="flow" d="M484.0,202.2 C750.0,202.2 750.0,472.8 1016.0,472.8 L1016.0,473.7 C750.0,473.7 750.0,203.1 484.0,203.1 Z" fill="#B07CC6" opacity=".66"><title>species &#8594; family &#183; 8 detections</title></path>
+<path class="flow" d="M484.0,218.3 C750.0,218.3 750.0,167.3 1016.0,167.3 L1016.0,202.7 C750.0,202.7 750.0,253.7 484.0,253.7 Z" fill="#E8710A" opacity=".66"><title>genus &#8594; species &#183; 313 detections</title></path>
+<path class="flow" d="M484.0,253.7 C750.0,253.7 750.0,291.9 1016.0,291.9 L1016.0,369.1 C750.0,369.1 750.0,331.0 484.0,331.0 Z" fill="#C4C0BB" opacity=".66"><title>genus &#8594; genus &#183; 683 detections</title></path>
+<path class="flow" d="M484.0,331.0 C750.0,331.0 750.0,435.5 1016.0,435.5 L1016.0,446.2 C750.0,446.2 750.0,341.6 484.0,341.6 Z" fill="#B07CC6" opacity=".66"><title>genus &#8594; genus group &#183; 94 detections</title></path>
+<path class="flow" d="M484.0,341.6 C750.0,341.6 750.0,473.7 1016.0,473.7 L1016.0,477.3 C750.0,477.3 750.0,345.2 484.0,345.2 Z" fill="#B07CC6" opacity=".66"><title>genus &#8594; family &#183; 32 detections</title></path>
+<path class="flow" d="M484.0,362.4 C750.0,362.4 750.0,202.7 1016.0,202.7 L1016.0,232.5 C750.0,232.5 750.0,392.2 484.0,392.2 Z" fill="#E8710A" opacity=".66"><title>genus group &#8594; species &#183; 264 detections</title></path>
+<path class="flow" d="M484.0,392.2 C750.0,392.2 750.0,369.1 1016.0,369.1 L1016.0,396.5 C750.0,396.5 750.0,419.6 484.0,419.6 Z" fill="#E8710A" opacity=".66"><title>genus group &#8594; genus &#183; 242 detections</title></path>
+<path class="flow" d="M484.0,419.6 C750.0,419.6 750.0,446.2 1016.0,446.2 L1016.0,457.8 C750.0,457.8 750.0,431.2 484.0,431.2 Z" fill="#C4C0BB" opacity=".66"><title>genus group &#8594; genus group &#183; 103 detections</title></path>
+<path class="flow" d="M484.0,431.2 C750.0,431.2 750.0,477.3 1016.0,477.3 L1016.0,479.9 C750.0,479.9 750.0,433.8 484.0,433.8 Z" fill="#B07CC6" opacity=".66"><title>genus group &#8594; family &#183; 23 detections</title></path>
+<path class="flow" d="M484.0,444.6 C750.0,444.6 750.0,232.5 1016.0,232.5 L1016.0,246.5 C750.0,246.5 750.0,458.5 484.0,458.5 Z" fill="#E8710A" opacity=".66"><title>family &#8594; species &#183; 123 detections</title></path>
+<path class="flow" d="M484.0,458.5 C750.0,458.5 750.0,396.5 1016.0,396.5 L1016.0,410.0 C750.0,410.0 750.0,472.1 484.0,472.1 Z" fill="#E8710A" opacity=".66"><title>family &#8594; genus &#183; 120 detections</title></path>
+<path class="flow" d="M484.0,472.1 C750.0,472.1 750.0,457.8 1016.0,457.8 L1016.0,465.6 C750.0,465.6 750.0,479.9 484.0,479.9 Z" fill="#E8710A" opacity=".66"><title>family &#8594; genus group &#183; 69 detections</title></path>
+<path class="flow" d="M484.0,479.9 C750.0,479.9 750.0,479.9 1016.0,479.9 L1016.0,481.6 C750.0,481.6 750.0,481.6 484.0,481.6 Z" fill="#C4C0BB" opacity=".66"><title>family &#8594; family &#183; 15 detections</title></path>
+<path class="flow" d="M484.0,203.1 C538.0,203.1 538.0,532.0 592.0,532.0 L592.0,543.2 C538.0,543.2 538.0,214.3 484.0,214.3 Z" fill="#9E9E9E" opacity=".6"/>
+<path class="flow" d="M484.0,345.2 C538.0,345.2 538.0,543.2 592.0,543.2 L592.0,556.3 C538.0,556.3 538.0,358.4 484.0,358.4 Z" fill="#9E9E9E" opacity=".6"/>
+<path class="flow" d="M484.0,433.8 C538.0,433.8 538.0,556.3 592.0,556.3 L592.0,563.1 C538.0,563.1 538.0,440.6 484.0,440.6 Z" fill="#9E9E9E" opacity=".6"/>
+<path class="flow" d="M484.0,481.6 C538.0,481.6 538.0,563.1 592.0,563.1 L592.0,579.5 C538.0,579.5 538.0,498.0 484.0,498.0 Z" fill="#9E9E9E" opacity=".6"/>
+<rect class="node" x="592" y="532.0" width="10" height="47.5" fill="#9E9E9E"/>
+<text class="band-sub" x="608" y="559.8" text-anchor="start">detected by only the published analysis &#183; 420</text>
+<path class="flow" d="M1016.0,246.5 C962.0,246.5 962.0,584.0 908.0,584.0 L908.0,598.9 C962.0,598.9 962.0,261.4 1016.0,261.4 Z" fill="#9E9E9E" opacity=".6"/>
+<path class="flow" d="M1016.0,410.0 C962.0,410.0 962.0,598.9 908.0,598.9 L908.0,611.9 C962.0,611.9 962.0,423.0 1016.0,423.0 Z" fill="#9E9E9E" opacity=".6"/>
+<path class="flow" d="M1016.0,465.6 C962.0,465.6 962.0,611.9 908.0,611.9 L908.0,615.1 C962.0,615.1 962.0,468.8 1016.0,468.8 Z" fill="#9E9E9E" opacity=".6"/>
+<path class="flow" d="M1016.0,481.6 C962.0,481.6 962.0,615.1 908.0,615.1 L908.0,618.0 C962.0,618.0 962.0,484.5 1016.0,484.5 Z" fill="#9E9E9E" opacity=".6"/>
+<rect class="node" x="908" y="584.0" width="-10" height="34.0" fill="#9E9E9E"/>
+<text class="band-sub" x="892" y="605.0" text-anchor="end">detected by only the reanalysis &#183; 301</text>
+<text class="band" x="438" y="131.2" text-anchor="end">species</text>
+<text class="band-sub" x="438" y="148.2" text-anchor="end">1,400 detections &#183; 37%</text>
+<text class="band" x="438" y="284.3" text-anchor="end">genus</text>
+<text class="band-sub" x="438" y="301.3" text-anchor="end">1,238 detections &#183; 33%</text>
+<text class="band" x="438" y="397.5" text-anchor="end">genus group</text>
+<text class="band-sub" x="438" y="414.5" text-anchor="end">692 detections &#183; 18%</text>
+<text class="band" x="438" y="467.3" text-anchor="end">family</text>
+<text class="band-sub" x="438" y="484.3" text-anchor="end">472 detections &#183; 12%</text>
+<text class="band" x="1062" y="154.7" text-anchor="start">species</text>
+<text class="band-sub" x="1062" y="171.7" text-anchor="start">1,816 detections &#183; 49%</text>
+<text class="band" x="1062" y="340.2" text-anchor="start">genus</text>
+<text class="band-sub" x="1062" y="357.2" text-anchor="start">1,394 detections &#183; 38%</text>
+<text class="band" x="1062" y="443.9" text-anchor="start">genus group</text>
+<text class="band-sub" x="1062" y="460.9" text-anchor="start">369 detections &#183; 10%</text>
+<path class="leader" d="M1044.0,478.7 L1058.0,481.9"/>
+<text class="band" x="1062" y="477.9" text-anchor="start">family</text>
+<text class="band-sub" x="1062" y="494.9" text-anchor="start">104 detections &#183; 3%</text>
+<text class="arm" x="456" y="40" text-anchor="end" fill="#7A3E9D">the published analysis named it</text>
+<text class="arm" x="1044" y="40" fill="#D96A12">the reanalysis named it</text></svg>

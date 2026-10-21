@@ -1,0 +1,85 @@
+%%metro title: Nectarflow
+%%metro caption: Both arms read the same samplesheet and search the same reference library, so every difference is one of method.
+%%metro legend: bl
+
+%%metro line: published | The paper's own results | #8E44AD | dashed
+%%metro line: replica | replica · their pipeline rebuilt | #2196F3
+%%metro line: reanalysis | reanalysis · current methods | #E8710A
+%%metro line: reference | Reference library, used by both | #9E9E9E | dashed
+
+%%metro file: reads | fastq | 374 libraries (ENA)
+%%metro file: sheet | csv | Samplesheet
+%%metro file: barcodeuk | fasta | Barcode UK
+%%metro file: extra | tsv | Plant Atlas 2020
+%%metro file: dryad | xlsx | Their tables (Dryad)
+%%metro file: tables | tsv | Reads per plant
+%%metro file: blanks | tsv | Blank report
+
+%%metro off_track: library
+
+%%metro grid: sec1 | 0,0
+%%metro grid: sec2 | 0,1
+
+graph LR
+    subgraph sec1[Read processing and sequence curation]
+        %%metro exit: right | replica, reanalysis
+        reads
+        sheet
+        trim[Quality trim\nTrimmomatic]
+        merge[Join pairs\nFLASH]
+        split[Sort the\ntwo barcodes]
+        derep[Group identical\nvsearch]
+        single[Drop\nsingletons]
+        cutadapt[Cut primers\ncutadapt]
+        dada2[Denoise\nDADA2]
+        lulu[Merge rDNA copies\nmumu]
+        library[Build the\nreference]
+        barcodeuk
+        extra
+        blast1[Search\nBLAST 2.2.31]
+        blast2[Search\nBLAST 2.16]
+    end
+
+    subgraph sec2[Taxonomic assignment and community analysis]
+        %%metro entry: left | replica, reanalysis
+        tophit[Name by\nshared rank]
+        counts[Count reads\nper sample]
+        lca[Name by\nshared rank]
+        consensus[Combine markers]
+        controls[Check\nthe blanks]
+        compare[Compare with\nthe paper]
+        stats[Statistics\nmvabund, vegan]
+        dryad
+        tables
+        blanks
+    end
+
+    reads -->|replica| trim
+    sheet -->|replica| trim
+    trim -->|replica| merge
+    merge -->|replica| split
+    split -->|replica| derep
+    derep -->|replica| single
+    single -->|replica| blast1
+    blast1 -->|replica| tophit
+    tophit -->|replica| counts
+    counts -->|replica| compare
+    counts -->|replica| tables
+    reads -->|reanalysis| cutadapt
+    sheet -->|reanalysis| cutadapt
+    cutadapt -->|reanalysis| dada2
+    dada2 -->|reanalysis| lulu
+    lulu -->|reanalysis| blast2
+    blast2 -->|reanalysis| lca
+    lca -->|reanalysis| consensus
+    lca -->|reanalysis| controls
+    controls -->|reanalysis| blanks
+    consensus -->|reanalysis| compare
+    consensus -->|reanalysis| stats
+    tables -->|replica| stats
+    barcodeuk -->|reference| library
+    extra -->|reference| library
+    library -->|reference| blast2
+    library -->|reference| blast1
+    dryad -->|published| compare
+    dryad -->|published| stats
